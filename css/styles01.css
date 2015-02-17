@@ -1,35 +1,25 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
-    font-weight: normal;
     line-height: 135%;
-}
+    max-width: 40em;
 
-p {
-    font-weight: lighter;
 }
 
 h1 {
-    font-size: 1.75em;
-    font-weight: normal;
     line-height: 130%;
 }
 
 h2 {
-    font-size: 1.55em;
-    font-weight: normal;
     line-height: 130%;
 }
 
 h3 {
-    font-size: 1.45em;
-    font-weight: normal;
     line-height: 130%;
 }
 
 time {
     color: grey;
-    font-weight: lighter;
 }
 
 a {
@@ -42,7 +32,5 @@ img {
 
 figcaption {
     font-style: italic;
-    font-size: 0.7em;
-    text-align: center;
 }
 
