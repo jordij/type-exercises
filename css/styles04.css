@@ -1,3 +1,4 @@
+
 h1 {
     font-size: 1.75em;
 }
@@ -11,6 +12,19 @@ h3 {
 }
 
 figcaption {
-    font-size: 0.7em;
+    font-size: 0.8em;
     margin-left: 1em;
+}
+
+a {
+    color: rgb(63, 180, 218);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(36, 114, 139);
+}
+
+header h1 {
+    margin-bottom: 0.15em;
 }
