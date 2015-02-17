@@ -3,25 +3,9 @@ body {
     font-size: 1em;
     font-weight: normal;
     line-height: 135%;
-    max-width: 40em;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    color:;
 }
 
-header {
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-header p {
-    margin-top:0.5em;
-    margin-bottom: 0.5em;
-}
 p {
-    margin-top:1em;
-    margin-bottom: 1em;
     font-weight: lighter;
 }
 
@@ -29,24 +13,18 @@ h1 {
     font-size: 1.75em;
     font-weight: normal;
     line-height: 130%;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
 }
 
 h2 {
     font-size: 1.55em;
     font-weight: normal;
     line-height: 130%;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
 }
 
 h3 {
     font-size: 1.45em;
     font-weight: normal;
     line-height: 130%;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
 }
 
 time {
